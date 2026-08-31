@@ -1,3 +1,7 @@
+<a href="https://www.buymeacoffee.com/williansaez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+![License](https://img.shields.io/badge/license-MIT-green)
+
 # Neural Vault
 
 **An Obsidian community plugin (beta) — desktop only — pairs with [Claude Code](https://claude.com/claude-code).**
@@ -120,3 +124,4 @@ Quick checks:
 - Relies on **undocumented** internals of the core graph view — an Obsidian update may break it.
 - Desktop only (`isDesktopOnly`).
 - Tested on Obsidian 1.12.x, macOS.
+
